@@ -173,7 +173,7 @@
 > <img width="373" alt="Cuplikan layar 2024-03-24 132635" src="https://github.com/weyndraig14/belajar-php-mysql/assets/162102805/9f2747e6-ed34-45c8-b76e-d68f2727f07d">
 ---
 <p align="center" >
-  <b>PERTANYAAN DAN CATATAN TAMBAHAN</b>
+  <b>CATATAN TAMBAHAN</b>
 </p>
 
 > - Saya tidak tau bagaimana ia menaruh kode menambah table atau insert ke dalam table dengan bantuan text editornya, jadi saya menggunakan phpmyadmin secara manual
